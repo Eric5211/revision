@@ -1,0 +1,11 @@
+This file  contains all git commands.
+a) git clone - it is used to clone a repository created in git.
+  this is how you access a repository remotely.
+b) git add - this is a command that is used to prepare git to recieve a file from a local machine.
+c) git commit -m this command list the changes that needs to be posted to github after being made in a local machine.
+d) git push -used to push what has been created locally.
+e) git branch- it is used to explain where the command line is in git either in main or branch.
+f ) git checkout- is used to create a new path. how? git branch new main. 
+g) while pushing from a branch = git push orgin new main.
+h) to give file roles
+

@@ -1,0 +1,16 @@
+This file contains all shell commands and their role.
+a) pwd - it discloses the current working directory.
+b) cd - it is used to change directory from one directory to another.
+c) ls - it is used to list all content of the directory. it includes folders and files.
+d) ls l- it lists files and folders in long format a directory.
+e) ls -a it lists hidden files in files or directoties.
+f) ln - creates physical links.
+g) ln -s creates a symbolic link.
+h) touch- used to create files.
+i) cat- used to display file content.
+j) mv- used to move a file or rename a file.
+k) rm- used to remove a file.
+l) rm -m used to remove directories.
+m) du show disc usage.
+n) echo- used to write content in a file.
+o) cd .  used to go back to root of a directory.

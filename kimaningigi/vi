@@ -1,0 +1,13 @@
+This file contains all lists of commands in vi editor
+A) vi is in two modes ie command mode and insert mode.
+B) To navigate on command mode the following commands can be used
+     1) esc to exit insert mode.
+     2) i to enter insert mode.
+     3) :q! to quit vi without saving.
+     4) :wq to quit after saving vi.
+     5) hjkl to move around the cursor.
+     6) x to delete current letter.
+     7) X to delete letter on the right.
+     8) dd to delete a whole line.
+     9) nyy to copy text or line.
+     10 P,P to paste.
